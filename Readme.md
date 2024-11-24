@@ -52,10 +52,9 @@ Ajustamos nuestra oferta a ese púlico ofreciendo una amplia gama de productos c
 
 # Respositorio Dashboard:
 https://github.com/CarlosCrisonG/grupo_2_mitechstore_dashboard
-
 <br />
 
-# Herramientas utilizadas (librerías, frameworks):
+# Stack:
 - **Node.js + JavaScript**
 - **React** 18.2.0, librería que permite construir aplicaciones más rápidas y performantes del lado del frontend mediante componentes.
 - **React-router** 6.11.2, librería que permite implementar sistemas de ruteo en aplicaciones de React.
